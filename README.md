@@ -28,4 +28,4 @@ CONTACT PAGE
 - The **Home** page has "Personal Info" and an "About me" section. The "About me" section provides information about Rosie. 
 - The **Resume** page includes "Work History" using time-line item bullet points and "My Skills" progress bar sections which shows the level of advancement of Rosie's programming languages. 
 - The **Contact** page contains a form to fill in, encouraging to cooperation.
-- The ** Download CV** link provide Rosie's CV in PDF format for employers or clients who may prefer that particular, more traditional format.
+- The **Download CV** link provide Rosie's CV in PDF format for employers or clients who may prefer that particular, more traditional format.
