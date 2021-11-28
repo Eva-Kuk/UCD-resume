@@ -320,7 +320,7 @@ button[type="submit"]{
     background-color: #e84610;
 }
 .form-row>.col {
-    margin-bottom:65px;
+    margin-bottom:45px;
 }
 
 /*--------------------------------------------Media Queries */
